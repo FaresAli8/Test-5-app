@@ -1,0 +1,8 @@
+{
+  "description": "Android QR Code Scanner & Generator (Compose + CameraX)",
+  "language": "Kotlin",
+  "framework": "Jetpack Compose",
+  "buildSystem": "Gradle",
+  "minSdk": 24,
+  "targetSdk": 34
+}
